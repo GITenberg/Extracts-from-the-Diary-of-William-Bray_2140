@@ -1,0 +1,24 @@
+_repo: Extracts-from-the-Diary-of-William-Bray_2140
+creator:
+  author:
+    agent_name: Bray, William
+    birthdate: 1736
+    deathdate: 1832
+    gutenberg_agent_id: '834'
+    url: http://www.gutenberg.org/2009/agents/834
+description: ''
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Bray, William, 1736-1832 -- Biography'
+- !lcsh 'Great Britain -- History -- Stuarts, 1603-1714'
+- !lcsh 'Great Britain -- Court and courtiers'
+title: Extracts from the Diary of William Bray
+url: http://www.gutenberg.org/ebooks/2140
