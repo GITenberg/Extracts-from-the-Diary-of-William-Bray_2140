@@ -1,5 +1,5 @@
 _repo: Extracts-from-the-Diary-of-William-Bray_2140
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 2140-h/images/coverb.jpg
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Bray, William, 1736-1832 -- Biography'
 - !lcsh 'Great Britain -- History -- Stuarts, 1603-1714'
 - !lcsh 'Great Britain -- Court and courtiers'
+- GITenberg
 title: Extracts from the Diary of William Bray
 url: http://www.gutenberg.org/ebooks/2140
